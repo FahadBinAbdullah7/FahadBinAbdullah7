@@ -1,27 +1,96 @@
-<h1 align="center">Hi 👋, I'm Fahad Bin Abdullah</h1>
-<h3 align="center">I am a student. I am currently doing my Bsc. in Electrical and Electronic Engineering</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fahadbinabdullah7&label=Profile%20views&color=0e75b6&style=flat" alt="fahadbinabdullah7" /> </p>
+<!-- Animated Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Fahad%20Bin%20Abdullah&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Engineer%20%7C%20Ops%20Strategist%20%7C%20Builder&descAlignY=58&descSize=18&animation=fadeIn" />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fahadbinabdullah7" alt="fahadbinabdullah7" /></a> </p>
+<!-- Animated Typing -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=B.Sc.+in+EEE+%7C+BRAC+University+%F0%9F%8E%93;Senior+Executive+%40+10+Minute+School+%F0%9F%9A%80;Python+%7C+ML+%7C+Computer+Vision+Enthusiast+%F0%9F%A4%96;Building+impactful+EdTech+experiences+%F0%9F%8C%9F" alt="Typing SVG" />
+</a>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<br/><br/>
 
+<img src="https://komarev.com/ghpvc/?username=fahadbinabdullah7&style=for-the-badge&color=0369a1&label=PROFILE+VIEWS" />
+&nbsp;
+<img src="https://img.shields.io/github/followers/fahadbinabdullah7?style=for-the-badge&color=0369a1&label=FOLLOWERS" />
 
-- 📫 How to reach me **rrayhann7@gmail.com**
+</div>
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1qoBikGk6MHk5HjNjfBNRIRSCR7b4F4DA/view?usp=sharing](https://drive.google.com/file/d/1qoBikGk6MHk5HjNjfBNRIRSCR7b4F4DA/view?usp=sharing)
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/fahad-bin-abdullah" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="fahad bin abdullah" height="30" width="40" /></a>
-</p>
+## 👨‍💻 About Me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+Hi there! I'm **Fahad Bin Abdullah**, a passionate engineer and operations professional based in **Dhaka, Bangladesh 🇧🇩**.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fahadbinabdullah7&show_icons=true&locale=en&layout=compact" alt="fahadbinabdullah7" /></p>
+- 🎓 Completed my **B.Sc. in Electrical & Electronic Engineering** from **BRAC University** in 2023
+- 💼 Currently working as a **Senior Executive in Operations** at **10 Minute School** — Bangladesh's largest EdTech platform
+- 🤖 Deeply interested in **Machine Learning**, **Computer Vision**, and **IoT**
+- 🎨 I enjoy creative tools like **Adobe Photoshop & Illustrator** alongside my technical work
+- 📬 Reach me at **fahad.bin.abdullah.rayhan@gmail.com**
+- ⚡ Fun fact: I love bridging the gap between engineering knowledge and real-world operations!
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fahadbinabdullah7&show_icons=true&locale=en" alt="fahadbinabdullah7" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fahadbinabdullah7&" alt="fahadbinabdullah7" /></p>
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### 💻 Languages
+<img src="https://skillicons.dev/icons?i=python,c,html,css&theme=dark&perline=4" />
+
+### 🎨 Frameworks & Styling
+<img src="https://skillicons.dev/icons?i=bootstrap,tailwind&theme=dark&perline=4" />
+
+### 🤖 AI / ML / Vision
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv&theme=dark&perline=4" />
+
+### 🔧 Tools & Platforms
+<img src="https://skillicons.dev/icons?i=git,arduino,photoshop,illustrator&theme=dark&perline=4" />
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=fahadbinabdullah7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f2027&title_color=38BDF8&icon_color=38BDF8&text_color=cbd5e1&ring_color=38BDF8" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=fahadbinabdullah7&theme=tokyonight&hide_border=true&background=0f2027&ring=38BDF8&fire=f59e0b&currStreakLabel=38BDF8&sideLabels=38BDF8" />
+
+<br/><br/>
+
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahadbinabdullah7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f2027&title_color=38BDF8&text_color=cbd5e1" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=fahadbinabdullah7&theme=algolia&no-frame=true&no-bg=true&column=6&margin-w=8" />
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=fahadbinabdullah7&bg_color=0f2027&color=38BDF8&line=0369a1&point=f59e0b&area=true&hide_border=true&area_color=0369a1" />
+</div>
+
+---
+
+## 🌐 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fahad-bin-abdullah)
+[![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fahad.bin.abdullah.rayhan@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-%2334A853.svg?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1qoBikGk6MHk5HjNjfBNRIRSCR7b4F4DA/view?usp=sharing)
+
+</div>
+
+<!-- Animated Footer Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer&animation=fadeIn" />

@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Fahad%20Bin%20Abdullah&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Engineer%20%7C%20Ops%20Strategist%20%7C%20Builder&descAlignY=58&descSize=18&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Fahad%20Bin%20Abdullah&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Engineer%20%7C%20Ops%20Person%20%7C%20Builder&descAlignY=58&descSize=18&animation=fadeIn" />
 
 <!-- Animated Typing -->
 <a href="https://git.io/typing-svg">

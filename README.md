@@ -38,9 +38,9 @@ Hi there! I'm **Fahad Bin Abdullah**, a passionate engineer and operations profe
 
 | 🖥️ Portfolio Website | 📰 Blog & Tools |
 |:---:|:---:|
-| [![Portfolio](https://img.shields.io/badge/fahadbinabdullah.vercel.app-Visit%20My%20Site-0f2027?style=for-the-badge&logo=vercel&logoColor=white)](https://fahadbinabdullah.vercel.app/) | [![TechPerByte](https://img.shields.io/badge/TechPerByte-Your%20Daily%20Tech%20Byte-0f2027?style=for-the-badge&logo=wordpress&logoColor=white)](https://techperbyte.com/) |
+| [![Portfolio](https://img.shields.io/badge/fahadbinabdullah.vercel.app-Visit%20My%20Site-0f2027?style=for-the-badge&logo=vercel&logoColor=white)](https://fahadbinabdullah.vercel.app/) | [![TechPerByte](https://img.shields.io/badge/TechPerByte-Your%20Daily%20Tech%20Byte-0f2027?style=for-the-badge&logo=wordpress&logoColor=white)](https://techperbyte.vercel.app/) |
 | Personal site with education, experience, projects & publications | Tech blog covering AI trends, tools & modern technology |
-| [![Blog](https://img.shields.io/badge/Read%20Articles-techperbyte.com%2Fblog-1e3a5f?style=flat-square&logo=rss&logoColor=38BDF8)](https://techperbyte.com/blog/) | [![Tools](https://img.shields.io/badge/Online%20Tools-PDF%20%7C%20Image%20%7C%20QR%20%26%20More-1e3a5f?style=flat-square&logo=tools&logoColor=38BDF8)](https://techperbyte.com/online-tools/) |
+| [![Blog](https://img.shields.io/badge/Read%20Articles-techperbyte.vercel.app%2Fblog-1e3a5f?style=flat-square&logo=rss&logoColor=38BDF8)](https://techperbyte.vercel.app/blog/) | [![Tools](https://img.shields.io/badge/Online%20Tools-PDF%20%7C%20Image%20%7C%20QR%20%26%20More-1e3a5f?style=flat-square&logo=tools&logoColor=38BDF8)](https://techperbyte.vercel.app/online-tools/) |
 
 </div>
 
@@ -102,7 +102,7 @@ Hi there! I'm **Fahad Bin Abdullah**, a passionate engineer and operations profe
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://fahadbinabdullah.vercel.app/)
-[![TechPerByte](https://img.shields.io/badge/TechPerByte-%230073AA.svg?style=for-the-badge&logo=wordpress&logoColor=white)](https://techperbyte.com/)
+[![TechPerByte](https://img.shields.io/badge/TechPerByte-%230073AA.svg?style=for-the-badge&logo=wordpress&logoColor=white)](https://techperbyte.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fahad-bin-abdullah)
 [![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fahad.bin.abdullah.rayhan@gmail.com)
 [![Resume](https://img.shields.io/badge/Resume-%2334A853.svg?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1qoBikGk6MHk5HjNjfBNRIRSCR7b4F4DA/view?usp=sharing)

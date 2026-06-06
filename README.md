@@ -24,8 +24,8 @@ Hi there! I'm **Fahad Bin Abdullah**, a passionate engineer and operations profe
 
 - 🎓 Completed my **B.Sc. in Electrical & Electronic Engineering** from **BRAC University** in 2023
 - 💼 Currently working as a **Senior Executive in Operations** at **10 Minute School** — Bangladesh's largest EdTech platform
-- 🖥️ I run **[TechPerByte](https://techperbyte.com/)** — a tech blog & online tools platform delivering *"Your Daily Byte of Tech and Tools"*
-- 🤖 Deeply interested in **Machine Learning**, **Computer Vision**, and **IoT**
+- 🖥️ I run **[TechPerByte](https://techperbyte.vercel.app/)** — a tech blog & online tools platform delivering *"Your Daily Byte of Tech and Tools"*
+- 🤖 Deeply interested in **Product Management**, **AI Automation**, and **IoT**
 - 🎨 I enjoy creative tools like **Adobe Photoshop & Illustrator** alongside my technical work
 - 📬 Reach me at **fahad.bin.abdullah.rayhan@gmail.com**
 - ⚡ Fun fact: I love bridging the gap between engineering knowledge and real-world operations!
